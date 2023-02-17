@@ -1,3 +1,5 @@
 this is demo file.
 
-# this line is added bye quick-test
+# this line is added by quick-test
+
+# this  second line is added by quick-test
